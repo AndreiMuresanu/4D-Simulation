@@ -1,2 +1,2 @@
 # 4D-Simulation
-A visual representation of a 3D slice of a 4D object.
+A visual representation of a 3D slice of a 4D object. In 3D space it shows the vertices of a 3D object, which is a 3D segment of a 4D object. This is the same as if you take a 2D slice of a 3D object. You can also move along the fourth dimension to see how the 3D representation changes and to get an understanding of the shape of the 4D object. The 4D object can be modified but must have a total of 5 verticles.
